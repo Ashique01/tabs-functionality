@@ -1,0 +1,13 @@
+.icon-container {
+  width: 16px;
+  height: 16px;
+}
+.icon-style {
+  color: aqua;
+  font-size: 1.5rem;
+  margin-right: 0.5rem;
+}
+
+.hover-style :hover {
+  color: rgb(19, 148, 180);
+}
